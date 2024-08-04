@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="Sprite-0001.png" style="width: 100%;" alt="Click to see the source">
+    <img src="pranav_cave_reduced.gif" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 <!-- ![image info](./Sprite-0001.png) -->
