@@ -1,7 +1,4 @@
-<div style="display:flex; flex-direction: column">
-  <img src="pranav_cave_reduced.gif" align="center" style="width: 100%;" alt="Click to see the source">
-  <img src="pranav_cave_reduced.gif" align="center" style="width: 100%;" alt="Click to see the source">
-</div>
+<img src="cave-export-upscaled.gif" align="center" style="width: 100%;" alt="Click to see the source">
 <!-- ![image info](./Sprite-0001.png) -->
 <!--
 **pranavsenthil5/pranavsenthil5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
