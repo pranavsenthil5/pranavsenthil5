@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+  
+  <!-- Rectangle with a link -->
+  <a href="https://example.com/rectangle">
+    <rect x="10" y="10" width="100" height="100" fill="blue" />
+  </a>
+  
+  <!-- Circle with a link -->
+  <a href="https://example.com/circle">
+    <circle cx="200" cy="60" r="50" fill="red" />
+  </a>
+  
+  <!-- Ellipse with a link -->
+  <a href="https://example.com/ellipse">
+    <ellipse cx="350" cy="60" rx="80" ry="40" fill="green" />
+  </a>
+  
+  <!-- Polygon with a link -->
+  <a href="https://example.com/polygon">
+    <polygon points="150,150 250,250 50,250" fill="yellow" />
+  </a>
+  
+  <!-- Text with a link -->
+  <a href="https://example.com/text">
+    <text x="300" y="200" font-family="Verdana" font-size="24" fill="black">Clickable Text</text>
+  </a>
+
+</svg>
